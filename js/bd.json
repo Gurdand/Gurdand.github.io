@@ -1,0 +1,61 @@
+{
+    "works": [
+        {
+            "category" : "site",
+            "title" : "Биография Альберта Эйнштейна",
+            "discription" : "Мой первый сайт, написанный на HTML и CSS в рамках обучения.",
+            "url" : "http://x95237ds.beget.tech/",
+            "imgUrl" : "img/einstein.jpg",
+            "codeUrl" : ""
+        },
+        {
+            "category" : "layout",
+            "title" : "Landing page BINO",
+            "discription" : "Верстка лендинга из курса по верстке",
+            "url" : "https://gurdand.github.io/bino-landingpage/",
+            "imgUrl" : "img/bino.jpg",
+            "codeUrl" : "https://github.com/Gurdand/bino-landingpage"
+        },
+        {
+            "category" : "layout",
+            "title" : "Сайт Портфолио",
+            "discription" : "Верстка сайта портфолио.",
+            "url" : "https://gurdand.github.io/layout-site/",
+            "imgUrl" : "img/portfolio.jpg",
+            "codeUrl" : "https://github.com/Gurdand/layout-site"
+        },
+        {
+            "category" : "js",
+            "title" : "HelloExpress",
+            "discription" : "C интенсива по JS от Академии Верстки.",
+            "url" : "https://gurdand.github.io/academ_aliexpress/",
+            "imgUrl" : "img/ali.jpg",
+            "codeUrl" : "https://github.com/Gurdand/academ_aliexpress"
+        },
+        {
+            "category" : "react",
+            "title" : "Ravenous",
+            "discription" : "Проект из курса по React.",
+            "url" : "https://gurdand.github.io/ravenous/",
+            "imgUrl" : "img/ravenous.jpg",
+            "codeUrl" : "https://github.com/Gurdand/ravenous"
+        },
+        {
+            "category" : "react",
+            "title" : "GW2 Achievement",
+            "discription" : "Проба пера в React. Информация по игре GuildWars 2. Продолжение следует...",
+            "url" : "https://gurdand.github.io/achievement/",
+            "imgUrl" : "img/achievement.jpg",
+            "codeUrl" : "https://github.com/Gurdand/achievement"
+        },
+        {
+            "category" : "",
+            "title" : "Work Title",
+            "discription" : "",
+            "url" : "#",
+            "imgUrl" : "img/work.jpg",
+            "codeUrl" : ""
+        }
+        
+    ]
+}
