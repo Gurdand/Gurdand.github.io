@@ -3,7 +3,7 @@
         {
             "category" : "site",
             "title" : "Биография Альберта Эйнштейна",
-            "discription" : "Мой первый сайт, написанный на HTML и CSS в рамках обучения.",
+            "discription" : "Мой первый сайт, написанный на HTML и CSS в рамках обучения в колледже.",
             "url" : "http://x95237ds.beget.tech/",
             "imgUrl" : "img/einstein.jpg",
             "codeUrl" : ""
@@ -19,7 +19,7 @@
         {
             "category" : "layout",
             "title" : "Сайт Портфолио",
-            "discription" : "Верстка сайта портфолио.",
+            "discription" : "Верстка сайта для портфолио. (не доделанная...)",
             "url" : "https://gurdand.github.io/layout-site/",
             "imgUrl" : "img/portfolio.jpg",
             "codeUrl" : "https://github.com/Gurdand/layout-site"
@@ -47,14 +47,6 @@
             "url" : "https://gurdand.github.io/achievement/",
             "imgUrl" : "img/achievement.jpg",
             "codeUrl" : "https://github.com/Gurdand/achievement"
-        },
-        {
-            "category" : "",
-            "title" : "Work Title",
-            "discription" : "",
-            "url" : "#",
-            "imgUrl" : "img/work.jpg",
-            "codeUrl" : ""
         }
         
     ]
