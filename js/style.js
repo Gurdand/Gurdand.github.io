@@ -19,7 +19,7 @@ window.addEventListener('DOMContentLoaded', () => {
                         <img src="${elem.imgUrl}" alt="project">
                     </a>
                 </div>
-                <a class="works__link" href="${ elem.codeUrl }">Код на GitHab</a>
+                <a class="works__link" href="${ elem.codeUrl }" target="_blank" >Код на GitHab</a>
                 <p class="works__description">${ elem.discription }</p>
             `;
 
